@@ -1,0 +1,18 @@
+{
+  "name": "K2-AAI-industry-tweaks",
+  "version": "1.0",
+  "title": "Krastorio 2 AAI industry integration tweaks",
+  "author": "Nezgal",
+  "homepage": "https://github.com/Nezgal/K2-AAI-industry-tweaks",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "Krastorio2",
+    "aai-industry"
+  ],
+  "description": "Some tweaks for better AAI industry integration with Krastorio 2:
+  - Sets AAI industrial furnace as prerequisite and ingredient for K2 advanced furnace
+  - Changes technology price for smoother progression of furnaces
+  - Reduces AAI industrial furnace module slots to 3 for linear progression
+  - Rises some stack sizes to be more consistent"
+}
