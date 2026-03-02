@@ -8,7 +8,9 @@
   "dependencies": [
     "base",
     "Krastorio2",
-    "aai-industry"
+    "aai-industry",
+    "? stack-inserters",
+    "? k2-sa-shim"
   ],
   "description": "Some tweaks for better AAI industry integration with Krastorio 2:
   - Sets AAI industrial furnace as prerequisite and ingredient for K2 advanced furnace
