@@ -34,6 +34,9 @@ data_util.add_research_unit_ingredient("kr-power-armor-mk4", "production-science
 data_util.add_research_unit_ingredient("kr-superior-exoskeleton-equipment", "production-science-pack", 1)
 data_util.add_research_unit_ingredient("artillery-shell-range-1", "production-science-pack", 1)
 data_util.add_research_unit_ingredient("artillery-shell-speed-1", "production-science-pack", 1)
+data_util.add_research_unit_ingredient("steam-power", "automation-science-pack", 1)
+data_util.add_research_unit_ingredient("kr-decorations", "automation-science-pack", 1)
+data_util.add_research_unit_ingredient("kr-greenhouse", "automation-science-pack", 1)
 
 data.raw.item["burner-lab"].order = "z[lab]-a[burner-lab]"
 data.raw.item["lab"].order = "z[lab]-b[electric-lab]"
