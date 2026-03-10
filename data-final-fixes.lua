@@ -37,6 +37,7 @@ data_util.add_research_unit_ingredient("artillery-shell-speed-1", "production-sc
 data_util.add_research_unit_ingredient("steam-power", "automation-science-pack", 1)
 data_util.add_research_unit_ingredient("kr-decorations", "automation-science-pack", 1)
 data_util.add_research_unit_ingredient("kr-greenhouse", "automation-science-pack", 1)
+data_util.add_research_unit_ingredient("circuit-network", "kr-basic-tech-card", 1)
 
 data.raw.item["burner-lab"].order = "z[lab]-a[burner-lab]"
 data.raw.item["lab"].order = "z[lab]-b[electric-lab]"
